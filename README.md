@@ -16,7 +16,7 @@ Paste the selected files into your Android Studio Location
 
 > Navigate to Plugins - android - lib - templates - other - paste the downloaded RVKit folder
 
-<a href="https://i.ibb.co/Lk54Zfq/3-location.png"><img src="https://i.ibb.co/Lk54Zfq/3-location.png" title="source: imgur.com" height="400" width="600"/></a>
+<a href="https://i.ibb.co/Lk54Zfq/3-location.png"><img src="https://i.ibb.co/Lk54Zfq/3-location.png" title="source: imgur.com" height="400" width="400"/></a>
 
 Usages
 ------
@@ -27,7 +27,7 @@ It is easy and pretty straight forward
 > - Right click on your project root package.
 > - Navigate to New - Activity - RVKit
 
-<a href="https://i.ibb.co/Rz5cVxV/4-Android-Studio.png"><img src="https://i.ibb.co/Rz5cVxV/4-Android-Studio.png" title="source: imgur.com" height="400" width="400"/></a>
+<a href="https://i.ibb.co/Rz5cVxV/4-Android-Studio.png"><img src="https://i.ibb.co/Rz5cVxV/4-Android-Studio.png" title="source: imgur.com" height="400" width="600"/></a>
 
 Yeah! Cool! Now Template wizard is up, You can change name as you like.
 
