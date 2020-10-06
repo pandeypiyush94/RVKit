@@ -6,12 +6,12 @@ Implementation
 
 1. Download or clone this repo
 
-<a href="https://i.ibb.co/FhTtx4Q/1-Download-Repo.png"><img src="https://i.ibb.co/FhTtx4Q/1-Download-Repo.png" title="source: imgur.com" height="103" width="400"/></a>
+<a href="https://i.ibb.co/FhTtx4Q/1-Download-Repo.png"><img src="https://i.ibb.co/FhTtx4Q/1-Download-Repo.png" title="source: imgur.com" height="200" width="400"/></a>
 
 2. Rename the downloaded folder to RecyclerViewTemplate and copy the complete folder.
 
-![alt_txt](https://i.ibb.co/F5JLYRx/2-Rename-Copy.png)
-
+<a href="https://i.ibb.co/F5JLYRx/2-Rename-Copy.png"><img src=https://i.ibb.co/F5JLYRx/2-Rename-Copy.png" title="source: imgur.com" height="200" width="400"/></a>
+  
 Paste the selected files into your Android Studio Location
 
 > Navigate to Plugins - android - lib - templates - other - paste the downloaded RVKit folder
