@@ -47,7 +47,7 @@ Contributions
 Pull requests and contributions are most welcome.
 
 
-Credits and References?
+Credits and References
 -----------------------
 
 https://github.com/benoitletondor/Android-Studio-MVP-template
