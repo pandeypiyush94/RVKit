@@ -1,0 +1,58 @@
+<!--This File contains a display from your screen template dialog.-->
+<template format="4"
+        revision="1"
+        name="RVKit"
+        description="Creates a New Activity With All Classes Related To RecyclerView">
+
+    <category value="Activity"/>
+
+    <parameter
+        id="mainActivityClass"
+        name="Activity Name"
+        type="string"
+        constraints="class|unique|nonempty"
+        default="RVScreen"
+        help="The Name Of The Activity" />
+
+    <parameter
+        id="mainActivityLayout"
+        name="Layout Name"
+        type="string"
+        constraints="layout|unique|nonempty"
+        default="layout_rv"
+        help="The name Of The Layout for the Activity" />
+
+    <parameter
+        id="itemAdapterClass"
+        name="Item Adapter Name"
+        type="string"
+        constraints="class|unique|nonempty"
+        default="RVAdapter"
+        help="The Name of the RecyclerView Adapter" />
+
+    <parameter
+        id="itemLayout"
+        name="item Layout Name"
+        type="string"
+        constraints="layout|unique|nonempty"
+        default="item_rv"
+        help="The Name of the Item Layout" />
+
+    <parameter
+        id="adapterModelClass"
+        name="Model Name"
+        type="string"
+        constraints="class|unique|nonempty"
+        default="RVModel"
+        help="The Name of the Model Class for Adapter"/>
+
+    <parameter
+        id="packageName"
+        name="Package name"
+        type="string"
+        constraints="package"
+        default="com.mycompany.myapp" />
+
+    <execute file="recipe.xml.ftl" />
+
+</template>
