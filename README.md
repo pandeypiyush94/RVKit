@@ -10,7 +10,7 @@ Implementation
 
 2. Rename the downloaded folder to RecyclerViewTemplate and copy the complete folder.
 
-<a href="https://i.ibb.co/F5JLYRx/2-Rename-Copy.png"><img src="https://i.ibb.co/F5JLYRx/2-Rename-Copy.png" title="source: imgur.com" height="200" width="400"/></a>
+<a href="https://i.ibb.co/F5JLYRx/2-Rename-Copy.png"><img src="https://i.ibb.co/F5JLYRx/2-Rename-Copy.png" title="source: imgur.com" height="400" width="400"/></a>
   
 Paste the selected files into your Android Studio Location
 
