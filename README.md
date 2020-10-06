@@ -16,7 +16,7 @@ Paste the selected files into your Android Studio Location
 
 > Navigate to Plugins - android - lib - templates - other - paste the downloaded RVKit folder
 
-![alt_txt](https://i.ibb.co/Lk54Zfq/3-location.png)
+<a href="https://i.ibb.co/Lk54Zfq/3-location.png"><img src="https://i.ibb.co/Lk54Zfq/3-location.png" title="source: imgur.com" height="400" width="400"/></a>
 
 Usages
 ------
