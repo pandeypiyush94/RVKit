@@ -6,17 +6,17 @@ Implementation
 
 1. Download or clone this repo
 
-![alt_txt](https://drive.google.com/file/d/1PndC6nBpkGVOg_GP689hx184Eo7futXV/view?usp=sharing)
+![alt_txt](https://i.ibb.co/FhTtx4Q/1-Download-Repo.png)
 
 2. Rename the downloaded folder to RecyclerViewTemplate and copy the complete folder.
 
-![alt_txt](https://drive.google.com/file/d/1xSNP9n-M28veBbMuKfQs5cqZZl1mVHZK/view?usp=sharing)
+![alt_txt](https://i.ibb.co/F5JLYRx/2-Rename-Copy.png)
 
 Paste the selected files into your Android Studio Location
 
 > Navigate to Plugins - android - lib - templates - other - paste the downloaded RVKit folder
 
-![alt_txt](https://drive.google.com/file/d/1Ng6R6RXcV9iYP00axZ8vS9uLbcX3Jsft/view?usp=sharing)
+![alt_txt](https://i.ibb.co/Lk54Zfq/3-location.png)
 
 Usages
 ------
@@ -27,13 +27,13 @@ It is easy and pretty straight forward
 > - Right click on your project root package.
 > - Navigate to New - Activity - RVKit
 
-![alt_txt](https://drive.google.com/file/d/1yU12UtuTmddEhHakBZ25oChV8iXSOdEN/view?usp=sharing)
+![alt_txt](https://i.ibb.co/Rz5cVxV/4-Android-Studio.png)
 
 Yeah! Cool! Now Template wizard is up, You can change name as you like.
 
-![alt_txt](https://drive.google.com/file/d/1VJ237GDgfiT87wKOuF5jOvi9Fb45gYrC/view?usp=sharing)
+![alt_txt](https://i.ibb.co/ygGNd8n/5-step1.png)
 
-![alt_txt](https://drive.google.com/file/d/1ET703wqyOKnHjfo6tBJhgMpvebLgVIWa/view?usp=sharing)
+![alt_txt](https://i.ibb.co/rMqLpDb/5-steo2.png)
 
 
 Future Work
