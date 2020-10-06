@@ -31,9 +31,9 @@ It is easy and pretty straight forward
 
 Yeah! Cool! Now Template wizard is up, You can change name as you like.
 
-![alt_txt](https://i.ibb.co/ygGNd8n/5-step1.png)
+<a href="https://i.ibb.co/ygGNd8n/5-step1.png"><img src="https://i.ibb.co/ygGNd8n/5-step1.png" title="source: imgur.com" height="400" width="600"/></a>
 
-![alt_txt](https://i.ibb.co/rMqLpDb/5-steo2.png)
+<a href="https://i.ibb.co/rMqLpDb/5-steo2.png"><img src="https://i.ibb.co/rMqLpDb/5-steo2.png" title="source: imgur.com" height="400" width="600"/></a>
 
 
 Future Work
