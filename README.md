@@ -6,7 +6,7 @@ Implementation
 
 1. Download or clone this repo
 
-![alt_txt](https://i.ibb.co/FhTtx4Q/1-Download-Repo.png)
+<a href="https://i.ibb.co/FhTtx4Q/1-Download-Repo.png"><img src="https://i.ibb.co/FhTtx4Q/1-Download-Repo.png" title="source: imgur.com" height="103" width="400"/></a>
 
 2. Rename the downloaded folder to RecyclerViewTemplate and copy the complete folder.
 
