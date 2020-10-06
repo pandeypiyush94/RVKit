@@ -8,7 +8,7 @@ Implementation
 
 <a href="https://i.ibb.co/FhTtx4Q/1-Download-Repo.png"><img src="https://i.ibb.co/FhTtx4Q/1-Download-Repo.png" title="source: imgur.com" height="200" width="400"/></a>
 
-2. Rename the downloaded folder to RecyclerViewTemplate and copy the complete folder.
+2. Rename the downloaded folder to RVKit and copy the complete folder.
 
 <a href="https://i.ibb.co/F5JLYRx/2-Rename-Copy.png"><img src="https://i.ibb.co/F5JLYRx/2-Rename-Copy.png" title="source: imgur.com" height="400" width="400"/></a>
   
