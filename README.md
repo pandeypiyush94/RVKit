@@ -1,4 +1,7 @@
 # RVKit
+Now, no need to waste your time to create all those essential classes/files for a RecyclerView. Here is the template which will take care of all those things...
+And Yes With the Predefined Code Too...
+
 A Template To Create A Screen With RecyclerView
 
 Implementation
